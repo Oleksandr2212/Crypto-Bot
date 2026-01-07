@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Сергій",
+    "currency": "USDT",
+    "rate": "39.5",
+    "limit": "100-1000",
+    "contact": "@Sergey_Banker"
+  },
+  {
+    "name": "ТОВ К2 Технології",
+    "currency": "USDT",
+    "rate": "39.6",
+    "limit": "50-500",
+    "contact": "@BMW318i_oleksandr"
+  },
+  {
+    "name": "Test",
+    "currency": "USDT",
+    "rate": "500",
+    "limit": "10000",
+    "contact": "@terst"
+  },
+  {
+    "name": "Test name",
+    "currency": "EUR",
+    "rate": "51",
+    "limit": "200k",
+    "contact": "@testnamebot"
+  }
+]

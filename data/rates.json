@@ -1,0 +1,912 @@
+{
+  "BTC/USD": {
+    "symbol": "BTC/USD",
+    "price": 43920.33,
+    "change": -7.2,
+    "volume": 9765180.58,
+    "updated_at": "2025-10-19T10:10:20.488500Z"
+  },
+  "BTC/EUR": {
+    "symbol": "BTC/EUR",
+    "price": 32245.28,
+    "change": -8.03,
+    "volume": 3810750.27,
+    "updated_at": "2025-10-19T10:10:20.488518Z"
+  },
+  "BTC/UAH": {
+    "symbol": "BTC/UAH",
+    "price": 54967.94,
+    "change": -0.63,
+    "volume": 3026898.57,
+    "updated_at": "2025-10-19T10:10:20.488526Z"
+  },
+  "BTC/GBP": {
+    "symbol": "BTC/GBP",
+    "price": 53422.37,
+    "change": -0.81,
+    "volume": 2331162.79,
+    "updated_at": "2025-10-19T10:10:20.488536Z"
+  },
+  "ETH/USD": {
+    "symbol": "ETH/USD",
+    "price": 2162.35,
+    "change": -3.02,
+    "volume": 8850827.04,
+    "updated_at": "2025-10-19T10:10:20.488541Z"
+  },
+  "ETH/EUR": {
+    "symbol": "ETH/EUR",
+    "price": 2071.68,
+    "change": -1.46,
+    "volume": 2525342.65,
+    "updated_at": "2025-10-19T10:10:20.488546Z"
+  },
+  "ETH/UAH": {
+    "symbol": "ETH/UAH",
+    "price": 1267.19,
+    "change": 2.16,
+    "volume": 8147737.64,
+    "updated_at": "2025-10-19T10:10:20.488551Z"
+  },
+  "ETH/GBP": {
+    "symbol": "ETH/GBP",
+    "price": 3324.84,
+    "change": -3.88,
+    "volume": 2836258.55,
+    "updated_at": "2025-10-19T10:10:20.488557Z"
+  },
+  "BNB/USD": {
+    "symbol": "BNB/USD",
+    "price": 4703.9536,
+    "change": -6.46,
+    "volume": 7347128.28,
+    "updated_at": "2025-10-19T10:10:20.488565Z"
+  },
+  "BNB/EUR": {
+    "symbol": "BNB/EUR",
+    "price": 1275.9761,
+    "change": -2.39,
+    "volume": 8475738.17,
+    "updated_at": "2025-10-19T10:10:20.488571Z"
+  },
+  "BNB/UAH": {
+    "symbol": "BNB/UAH",
+    "price": 1998.3952,
+    "change": 6.8,
+    "volume": 3023686.72,
+    "updated_at": "2025-10-19T10:10:20.488576Z"
+  },
+  "BNB/GBP": {
+    "symbol": "BNB/GBP",
+    "price": 3498.7605,
+    "change": -1.68,
+    "volume": 8251659.1,
+    "updated_at": "2025-10-19T10:10:20.488582Z"
+  },
+  "SOL/USD": {
+    "symbol": "SOL/USD",
+    "price": 4264.0471,
+    "change": 3.09,
+    "volume": 4511404.95,
+    "updated_at": "2025-10-19T10:10:20.488587Z"
+  },
+  "SOL/EUR": {
+    "symbol": "SOL/EUR",
+    "price": 323.0315,
+    "change": -3.57,
+    "volume": 4809474.25,
+    "updated_at": "2025-10-19T10:10:20.488591Z"
+  },
+  "SOL/UAH": {
+    "symbol": "SOL/UAH",
+    "price": 960.1428,
+    "change": 5.18,
+    "volume": 7095915.75,
+    "updated_at": "2025-10-19T10:10:20.488596Z"
+  },
+  "SOL/GBP": {
+    "symbol": "SOL/GBP",
+    "price": 1411.0984,
+    "change": -5.46,
+    "volume": 3371738.54,
+    "updated_at": "2025-10-19T10:10:20.488601Z"
+  },
+  "ADA/USD": {
+    "symbol": "ADA/USD",
+    "price": 4368.4922,
+    "change": -4.26,
+    "volume": 582023.32,
+    "updated_at": "2025-10-19T10:10:20.488605Z"
+  },
+  "ADA/EUR": {
+    "symbol": "ADA/EUR",
+    "price": 3332.6373,
+    "change": -7.65,
+    "volume": 1216742.78,
+    "updated_at": "2025-10-19T10:10:20.488610Z"
+  },
+  "ADA/UAH": {
+    "symbol": "ADA/UAH",
+    "price": 1.2763,
+    "change": -3.49,
+    "volume": 5608747.78,
+    "updated_at": "2025-10-19T10:10:20.488615Z"
+  },
+  "ADA/GBP": {
+    "symbol": "ADA/GBP",
+    "price": 4349.3996,
+    "change": 9.8,
+    "volume": 6243099.05,
+    "updated_at": "2025-10-19T10:10:20.488620Z"
+  },
+  "XRP/USD": {
+    "symbol": "XRP/USD",
+    "price": 51.541,
+    "change": 6.96,
+    "volume": 825395.44,
+    "updated_at": "2025-10-19T10:10:20.488625Z"
+  },
+  "XRP/EUR": {
+    "symbol": "XRP/EUR",
+    "price": 1794.0019,
+    "change": 2.66,
+    "volume": 3837010.38,
+    "updated_at": "2025-10-19T10:10:20.488629Z"
+  },
+  "XRP/UAH": {
+    "symbol": "XRP/UAH",
+    "price": 2067.4111,
+    "change": -7.9,
+    "volume": 9910816.24,
+    "updated_at": "2025-10-19T10:10:20.488636Z"
+  },
+  "XRP/GBP": {
+    "symbol": "XRP/GBP",
+    "price": 2078.1829,
+    "change": 5.66,
+    "volume": 4053857.76,
+    "updated_at": "2025-10-19T10:10:20.488641Z"
+  },
+  "LTC/USD": {
+    "symbol": "LTC/USD",
+    "price": 3742.3313,
+    "change": -8.01,
+    "volume": 3860746.66,
+    "updated_at": "2025-10-19T10:10:20.488645Z"
+  },
+  "LTC/EUR": {
+    "symbol": "LTC/EUR",
+    "price": 2776.226,
+    "change": 4.22,
+    "volume": 2314329.14,
+    "updated_at": "2025-10-19T10:10:20.488653Z"
+  },
+  "LTC/UAH": {
+    "symbol": "LTC/UAH",
+    "price": 729.9466,
+    "change": -7.42,
+    "volume": 7929667.26,
+    "updated_at": "2025-10-19T10:10:20.488658Z"
+  },
+  "LTC/GBP": {
+    "symbol": "LTC/GBP",
+    "price": 832.6304,
+    "change": -3.32,
+    "volume": 7034303.54,
+    "updated_at": "2025-10-19T10:10:20.488662Z"
+  },
+  "DOT/USD": {
+    "symbol": "DOT/USD",
+    "price": 2273.6889,
+    "change": -7.45,
+    "volume": 2160855.99,
+    "updated_at": "2025-10-19T10:10:20.488667Z"
+  },
+  "DOT/EUR": {
+    "symbol": "DOT/EUR",
+    "price": 1383.8945,
+    "change": -7.82,
+    "volume": 8385987.65,
+    "updated_at": "2025-10-19T10:10:20.488671Z"
+  },
+  "DOT/UAH": {
+    "symbol": "DOT/UAH",
+    "price": 3810.8871,
+    "change": 1.43,
+    "volume": 5015619.55,
+    "updated_at": "2025-10-19T10:10:20.488676Z"
+  },
+  "DOT/GBP": {
+    "symbol": "DOT/GBP",
+    "price": 3729.1611,
+    "change": 8.77,
+    "volume": 1126049.75,
+    "updated_at": "2025-10-19T10:10:20.488681Z"
+  },
+  "MATIC/USD": {
+    "symbol": "MATIC/USD",
+    "price": 958.3377,
+    "change": 0.87,
+    "volume": 1691945.99,
+    "updated_at": "2025-10-19T10:10:20.488686Z"
+  },
+  "MATIC/EUR": {
+    "symbol": "MATIC/EUR",
+    "price": 1488.8006,
+    "change": -4.04,
+    "volume": 2397875.49,
+    "updated_at": "2025-10-19T10:10:20.488690Z"
+  },
+  "MATIC/UAH": {
+    "symbol": "MATIC/UAH",
+    "price": 1330.7793,
+    "change": 2.47,
+    "volume": 7745236.84,
+    "updated_at": "2025-10-19T10:10:20.488695Z"
+  },
+  "MATIC/GBP": {
+    "symbol": "MATIC/GBP",
+    "price": 264.1296,
+    "change": 3.52,
+    "volume": 9678881.33,
+    "updated_at": "2025-10-19T10:10:20.488700Z"
+  },
+  "AVAX/USD": {
+    "symbol": "AVAX/USD",
+    "price": 227.2581,
+    "change": 9.71,
+    "volume": 2534949.79,
+    "updated_at": "2025-10-19T10:10:20.488707Z"
+  },
+  "AVAX/EUR": {
+    "symbol": "AVAX/EUR",
+    "price": 3518.9902,
+    "change": -7.91,
+    "volume": 8144521.56,
+    "updated_at": "2025-10-19T10:10:20.488712Z"
+  },
+  "AVAX/UAH": {
+    "symbol": "AVAX/UAH",
+    "price": 1341.8452,
+    "change": 6.39,
+    "volume": 1649421.65,
+    "updated_at": "2025-10-19T10:10:20.488717Z"
+  },
+  "AVAX/GBP": {
+    "symbol": "AVAX/GBP",
+    "price": 119.0957,
+    "change": 1.05,
+    "volume": 1894187.32,
+    "updated_at": "2025-10-19T10:10:20.488721Z"
+  },
+  "DOGE/USD": {
+    "symbol": "DOGE/USD",
+    "price": 345.243,
+    "change": 5.02,
+    "volume": 962812.32,
+    "updated_at": "2025-10-19T10:10:20.488726Z"
+  },
+  "DOGE/EUR": {
+    "symbol": "DOGE/EUR",
+    "price": 4590.0783,
+    "change": -2.45,
+    "volume": 9475987.21,
+    "updated_at": "2025-10-19T10:10:20.488731Z"
+  },
+  "DOGE/UAH": {
+    "symbol": "DOGE/UAH",
+    "price": 3809.7148,
+    "change": 8.78,
+    "volume": 9549228.54,
+    "updated_at": "2025-10-19T10:10:20.488741Z"
+  },
+  "DOGE/GBP": {
+    "symbol": "DOGE/GBP",
+    "price": 2989.5755,
+    "change": -5.24,
+    "volume": 3416008.85,
+    "updated_at": "2025-10-19T10:10:20.488748Z"
+  },
+  "LINK/USD": {
+    "symbol": "LINK/USD",
+    "price": 1297.0995,
+    "change": -3.84,
+    "volume": 3023438.21,
+    "updated_at": "2025-10-19T10:10:20.488752Z"
+  },
+  "LINK/EUR": {
+    "symbol": "LINK/EUR",
+    "price": 4136.8216,
+    "change": -4.7,
+    "volume": 4442905.65,
+    "updated_at": "2025-10-19T10:10:20.488769Z"
+  },
+  "LINK/UAH": {
+    "symbol": "LINK/UAH",
+    "price": 4091.7448,
+    "change": 1.68,
+    "volume": 9255636.72,
+    "updated_at": "2025-10-19T10:10:20.488773Z"
+  },
+  "LINK/GBP": {
+    "symbol": "LINK/GBP",
+    "price": 765.2396,
+    "change": -9.12,
+    "volume": 304882.34,
+    "updated_at": "2025-10-19T10:10:20.488777Z"
+  },
+  "UNI/USD": {
+    "symbol": "UNI/USD",
+    "price": 397.7063,
+    "change": 5.21,
+    "volume": 8746916.35,
+    "updated_at": "2025-10-19T10:10:20.488781Z"
+  },
+  "UNI/EUR": {
+    "symbol": "UNI/EUR",
+    "price": 3872.8299,
+    "change": -4.27,
+    "volume": 8858727.78,
+    "updated_at": "2025-10-19T10:10:20.488785Z"
+  },
+  "UNI/UAH": {
+    "symbol": "UNI/UAH",
+    "price": 291.1851,
+    "change": -0.97,
+    "volume": 5094860.22,
+    "updated_at": "2025-10-19T10:10:20.488790Z"
+  },
+  "UNI/GBP": {
+    "symbol": "UNI/GBP",
+    "price": 3363.8474,
+    "change": -7.05,
+    "volume": 4537241.98,
+    "updated_at": "2025-10-19T10:10:20.488794Z"
+  },
+  "ATOM/USD": {
+    "symbol": "ATOM/USD",
+    "price": 2685.647,
+    "change": 0.79,
+    "volume": 3406575.68,
+    "updated_at": "2025-10-19T10:10:20.488798Z"
+  },
+  "ATOM/EUR": {
+    "symbol": "ATOM/EUR",
+    "price": 3588.4238,
+    "change": -2.34,
+    "volume": 4388559.76,
+    "updated_at": "2025-10-19T10:10:20.488802Z"
+  },
+  "ATOM/UAH": {
+    "symbol": "ATOM/UAH",
+    "price": 2591.5273,
+    "change": 1.07,
+    "volume": 6633747.95,
+    "updated_at": "2025-10-19T10:10:20.488806Z"
+  },
+  "ATOM/GBP": {
+    "symbol": "ATOM/GBP",
+    "price": 4413.3296,
+    "change": 4.93,
+    "volume": 9589627.89,
+    "updated_at": "2025-10-19T10:10:20.488810Z"
+  },
+  "XLM/USD": {
+    "symbol": "XLM/USD",
+    "price": 1795.5155,
+    "change": 9.72,
+    "volume": 3660982.71,
+    "updated_at": "2025-10-19T10:10:20.488814Z"
+  },
+  "XLM/EUR": {
+    "symbol": "XLM/EUR",
+    "price": 1095.4431,
+    "change": -9.53,
+    "volume": 707292.97,
+    "updated_at": "2025-10-19T10:10:20.488818Z"
+  },
+  "XLM/UAH": {
+    "symbol": "XLM/UAH",
+    "price": 3997.4461,
+    "change": 3.41,
+    "volume": 6942811.35,
+    "updated_at": "2025-10-19T10:10:20.488822Z"
+  },
+  "XLM/GBP": {
+    "symbol": "XLM/GBP",
+    "price": 2000.3449,
+    "change": -4.45,
+    "volume": 1750354.14,
+    "updated_at": "2025-10-19T10:10:20.488826Z"
+  },
+  "TRX/USD": {
+    "symbol": "TRX/USD",
+    "price": 324.9135,
+    "change": -7.15,
+    "volume": 7894359.04,
+    "updated_at": "2025-10-19T10:10:20.488831Z"
+  },
+  "TRX/EUR": {
+    "symbol": "TRX/EUR",
+    "price": 770.6698,
+    "change": -1.29,
+    "volume": 6626396.41,
+    "updated_at": "2025-10-19T10:10:20.488835Z"
+  },
+  "TRX/UAH": {
+    "symbol": "TRX/UAH",
+    "price": 1175.456,
+    "change": -8.41,
+    "volume": 4306035.73,
+    "updated_at": "2025-10-19T10:10:20.488839Z"
+  },
+  "TRX/GBP": {
+    "symbol": "TRX/GBP",
+    "price": 3599.4436,
+    "change": 3.27,
+    "volume": 284245.11,
+    "updated_at": "2025-10-19T10:10:20.488843Z"
+  },
+  "NEAR/USD": {
+    "symbol": "NEAR/USD",
+    "price": 1799.462,
+    "change": -9.37,
+    "volume": 6452603.4,
+    "updated_at": "2025-10-19T10:10:20.488847Z"
+  },
+  "NEAR/EUR": {
+    "symbol": "NEAR/EUR",
+    "price": 2874.9281,
+    "change": -5.35,
+    "volume": 364975.51,
+    "updated_at": "2025-10-19T10:10:20.488851Z"
+  },
+  "NEAR/UAH": {
+    "symbol": "NEAR/UAH",
+    "price": 1208.132,
+    "change": -5.54,
+    "volume": 5754155.94,
+    "updated_at": "2025-10-19T10:10:20.488855Z"
+  },
+  "NEAR/GBP": {
+    "symbol": "NEAR/GBP",
+    "price": 1003.5318,
+    "change": 6.72,
+    "volume": 1427217.07,
+    "updated_at": "2025-10-19T10:10:20.488859Z"
+  },
+  "ALGO/USD": {
+    "symbol": "ALGO/USD",
+    "price": 2875.1304,
+    "change": -6.01,
+    "volume": 3420523.49,
+    "updated_at": "2025-10-19T10:10:20.488866Z"
+  },
+  "ALGO/EUR": {
+    "symbol": "ALGO/EUR",
+    "price": 3277.7542,
+    "change": 5.18,
+    "volume": 9126307.5,
+    "updated_at": "2025-10-19T10:10:20.488870Z"
+  },
+  "ALGO/UAH": {
+    "symbol": "ALGO/UAH",
+    "price": 4352.313,
+    "change": 9.35,
+    "volume": 1852950.55,
+    "updated_at": "2025-10-19T10:10:20.488874Z"
+  },
+  "ALGO/GBP": {
+    "symbol": "ALGO/GBP",
+    "price": 4999.0229,
+    "change": -3.72,
+    "volume": 50750.54,
+    "updated_at": "2025-10-19T10:10:20.488879Z"
+  },
+  "FTM/USD": {
+    "symbol": "FTM/USD",
+    "price": 1293.6394,
+    "change": -3.03,
+    "volume": 2552858.25,
+    "updated_at": "2025-10-19T10:10:20.488883Z"
+  },
+  "FTM/EUR": {
+    "symbol": "FTM/EUR",
+    "price": 3048.9288,
+    "change": -4.72,
+    "volume": 4543995.94,
+    "updated_at": "2025-10-19T10:10:20.488887Z"
+  },
+  "FTM/UAH": {
+    "symbol": "FTM/UAH",
+    "price": 2008.5134,
+    "change": -4.74,
+    "volume": 9474413.02,
+    "updated_at": "2025-10-19T10:10:20.488891Z"
+  },
+  "FTM/GBP": {
+    "symbol": "FTM/GBP",
+    "price": 3649.6569,
+    "change": -9.85,
+    "volume": 5189623.55,
+    "updated_at": "2025-10-19T10:10:20.488895Z"
+  },
+  "VET/USD": {
+    "symbol": "VET/USD",
+    "price": 128.3074,
+    "change": 1.94,
+    "volume": 9897148.63,
+    "updated_at": "2025-10-19T10:10:20.488899Z"
+  },
+  "VET/EUR": {
+    "symbol": "VET/EUR",
+    "price": 3255.7431,
+    "change": 2.98,
+    "volume": 532849.43,
+    "updated_at": "2025-10-19T10:10:20.488903Z"
+  },
+  "VET/UAH": {
+    "symbol": "VET/UAH",
+    "price": 1312.1212,
+    "change": 2.38,
+    "volume": 4911204.16,
+    "updated_at": "2025-10-19T10:10:20.488907Z"
+  },
+  "VET/GBP": {
+    "symbol": "VET/GBP",
+    "price": 4028.8465,
+    "change": -6.23,
+    "volume": 4579884.52,
+    "updated_at": "2025-10-19T10:10:20.488912Z"
+  },
+  "TOKEN1/USD": {
+    "symbol": "TOKEN1/USD",
+    "price": 4.765657,
+    "change": -3.31,
+    "volume": 5936698.11,
+    "updated_at": "2025-10-19T10:10:20.488916Z"
+  },
+  "TOKEN2/USD": {
+    "symbol": "TOKEN2/USD",
+    "price": 3.314902,
+    "change": 2.08,
+    "volume": 6339851.87,
+    "updated_at": "2025-10-19T10:10:20.488921Z"
+  },
+  "TOKEN3/USD": {
+    "symbol": "TOKEN3/USD",
+    "price": 1.283402,
+    "change": 7.48,
+    "volume": 3466334.92,
+    "updated_at": "2025-10-19T10:10:20.488925Z"
+  },
+  "TOKEN4/USD": {
+    "symbol": "TOKEN4/USD",
+    "price": 3.675104,
+    "change": -4.75,
+    "volume": 8081425.95,
+    "updated_at": "2025-10-19T10:10:20.488929Z"
+  },
+  "TOKEN5/USD": {
+    "symbol": "TOKEN5/USD",
+    "price": 1.438189,
+    "change": -3.95,
+    "volume": 697645.33,
+    "updated_at": "2025-10-19T10:10:20.488933Z"
+  },
+  "TOKEN6/USD": {
+    "symbol": "TOKEN6/USD",
+    "price": 0.402609,
+    "change": -1.37,
+    "volume": 6258007.59,
+    "updated_at": "2025-10-19T10:10:20.488937Z"
+  },
+  "TOKEN7/USD": {
+    "symbol": "TOKEN7/USD",
+    "price": 0.324782,
+    "change": 1.05,
+    "volume": 883979.45,
+    "updated_at": "2025-10-19T10:10:20.488943Z"
+  },
+  "TOKEN8/USD": {
+    "symbol": "TOKEN8/USD",
+    "price": 3.301497,
+    "change": -1.77,
+    "volume": 4415353.74,
+    "updated_at": "2025-10-19T10:10:20.488947Z"
+  },
+  "TOKEN9/USD": {
+    "symbol": "TOKEN9/USD",
+    "price": 1.810416,
+    "change": 7.25,
+    "volume": 5120285.0,
+    "updated_at": "2025-10-19T10:10:20.488951Z"
+  },
+  "TOKEN10/USD": {
+    "symbol": "TOKEN10/USD",
+    "price": 1.059981,
+    "change": -9.16,
+    "volume": 5158797.95,
+    "updated_at": "2025-10-19T10:10:20.488958Z"
+  },
+  "TOKEN11/USD": {
+    "symbol": "TOKEN11/USD",
+    "price": 2.542641,
+    "change": -9.56,
+    "volume": 2225664.9,
+    "updated_at": "2025-10-19T10:10:20.488962Z"
+  },
+  "TOKEN12/USD": {
+    "symbol": "TOKEN12/USD",
+    "price": 0.28097,
+    "change": 7.65,
+    "volume": 1581392.34,
+    "updated_at": "2025-10-19T10:10:20.488968Z"
+  },
+  "TOKEN13/USD": {
+    "symbol": "TOKEN13/USD",
+    "price": 2.537288,
+    "change": 1.0,
+    "volume": 7687797.03,
+    "updated_at": "2025-10-19T10:10:20.488973Z"
+  },
+  "TOKEN14/USD": {
+    "symbol": "TOKEN14/USD",
+    "price": 4.133775,
+    "change": -3.13,
+    "volume": 969610.7,
+    "updated_at": "2025-10-19T10:10:20.488979Z"
+  },
+  "TOKEN15/USD": {
+    "symbol": "TOKEN15/USD",
+    "price": 3.687603,
+    "change": -2.38,
+    "volume": 1189978.73,
+    "updated_at": "2025-10-19T10:10:20.488983Z"
+  },
+  "TOKEN16/USD": {
+    "symbol": "TOKEN16/USD",
+    "price": 4.236885,
+    "change": 0.4,
+    "volume": 5506160.68,
+    "updated_at": "2025-10-19T10:10:20.488987Z"
+  },
+  "TOKEN17/USD": {
+    "symbol": "TOKEN17/USD",
+    "price": 2.08444,
+    "change": 5.09,
+    "volume": 4972381.62,
+    "updated_at": "2025-10-19T10:10:20.488991Z"
+  },
+  "TOKEN18/USD": {
+    "symbol": "TOKEN18/USD",
+    "price": 2.570733,
+    "change": 2.83,
+    "volume": 1204365.84,
+    "updated_at": "2025-10-19T10:10:20.488995Z"
+  },
+  "TOKEN19/USD": {
+    "symbol": "TOKEN19/USD",
+    "price": 0.783922,
+    "change": -1.3,
+    "volume": 3020695.08,
+    "updated_at": "2025-10-19T10:10:20.488999Z"
+  },
+  "TOKEN20/USD": {
+    "symbol": "TOKEN20/USD",
+    "price": 3.286966,
+    "change": -5.9,
+    "volume": 2109180.6,
+    "updated_at": "2025-10-19T10:10:20.489004Z"
+  },
+  "TOKEN21/USD": {
+    "symbol": "TOKEN21/USD",
+    "price": 0.755134,
+    "change": -6.14,
+    "volume": 9620693.5,
+    "updated_at": "2025-10-19T10:10:20.489010Z"
+  },
+  "TOKEN22/USD": {
+    "symbol": "TOKEN22/USD",
+    "price": 1.11371,
+    "change": 8.66,
+    "volume": 9136653.9,
+    "updated_at": "2025-10-19T10:10:20.489014Z"
+  },
+  "TOKEN23/USD": {
+    "symbol": "TOKEN23/USD",
+    "price": 4.574596,
+    "change": -7.67,
+    "volume": 4168482.1,
+    "updated_at": "2025-10-19T10:10:20.489018Z"
+  },
+  "TOKEN24/USD": {
+    "symbol": "TOKEN24/USD",
+    "price": 1.671012,
+    "change": -5.6,
+    "volume": 5020198.44,
+    "updated_at": "2025-10-19T10:10:20.489022Z"
+  },
+  "TOKEN25/USD": {
+    "symbol": "TOKEN25/USD",
+    "price": 4.902945,
+    "change": 2.58,
+    "volume": 2518435.91,
+    "updated_at": "2025-10-19T10:10:20.489027Z"
+  },
+  "TOKEN26/USD": {
+    "symbol": "TOKEN26/USD",
+    "price": 4.201958,
+    "change": 3.47,
+    "volume": 4219670.18,
+    "updated_at": "2025-10-19T10:10:20.489031Z"
+  },
+  "TOKEN27/USD": {
+    "symbol": "TOKEN27/USD",
+    "price": 0.165855,
+    "change": 8.86,
+    "volume": 4513734.66,
+    "updated_at": "2025-10-19T10:10:20.489035Z"
+  },
+  "TOKEN28/USD": {
+    "symbol": "TOKEN28/USD",
+    "price": 2.766649,
+    "change": 2.04,
+    "volume": 8648412.37,
+    "updated_at": "2025-10-19T10:10:20.489039Z"
+  },
+  "TOKEN29/USD": {
+    "symbol": "TOKEN29/USD",
+    "price": 1.293604,
+    "change": 8.0,
+    "volume": 9441076.0,
+    "updated_at": "2025-10-19T10:10:20.489043Z"
+  },
+  "TOKEN30/USD": {
+    "symbol": "TOKEN30/USD",
+    "price": 1.216309,
+    "change": -6.22,
+    "volume": 3644168.04,
+    "updated_at": "2025-10-19T10:10:20.489047Z"
+  },
+  "TOKEN31/USD": {
+    "symbol": "TOKEN31/USD",
+    "price": 1.730524,
+    "change": -0.13,
+    "volume": 1313557.77,
+    "updated_at": "2025-10-19T10:10:20.489052Z"
+  },
+  "TOKEN32/USD": {
+    "symbol": "TOKEN32/USD",
+    "price": 3.860362,
+    "change": -8.45,
+    "volume": 4444589.05,
+    "updated_at": "2025-10-19T10:10:20.489056Z"
+  },
+  "TOKEN33/USD": {
+    "symbol": "TOKEN33/USD",
+    "price": 3.435134,
+    "change": -9.39,
+    "volume": 6413617.45,
+    "updated_at": "2025-10-19T10:10:20.489060Z"
+  },
+  "TOKEN34/USD": {
+    "symbol": "TOKEN34/USD",
+    "price": 4.03695,
+    "change": 4.02,
+    "volume": 4144027.73,
+    "updated_at": "2025-10-19T10:10:20.489064Z"
+  },
+  "TOKEN35/USD": {
+    "symbol": "TOKEN35/USD",
+    "price": 1.998477,
+    "change": 5.61,
+    "volume": 8687542.95,
+    "updated_at": "2025-10-19T10:10:20.489068Z"
+  },
+  "TOKEN36/USD": {
+    "symbol": "TOKEN36/USD",
+    "price": 2.61232,
+    "change": 1.88,
+    "volume": 6704538.76,
+    "updated_at": "2025-10-19T10:10:20.489072Z"
+  },
+  "TOKEN37/USD": {
+    "symbol": "TOKEN37/USD",
+    "price": 3.893598,
+    "change": 1.12,
+    "volume": 9568502.86,
+    "updated_at": "2025-10-19T10:10:20.489076Z"
+  },
+  "TOKEN38/USD": {
+    "symbol": "TOKEN38/USD",
+    "price": 0.730637,
+    "change": -2.09,
+    "volume": 3998281.38,
+    "updated_at": "2025-10-19T10:10:20.489080Z"
+  },
+  "TOKEN39/USD": {
+    "symbol": "TOKEN39/USD",
+    "price": 1.794168,
+    "change": 3.96,
+    "volume": 7620865.56,
+    "updated_at": "2025-10-19T10:10:20.489084Z"
+  },
+  "TOKEN40/USD": {
+    "symbol": "TOKEN40/USD",
+    "price": 0.112372,
+    "change": 0.3,
+    "volume": 5751369.69,
+    "updated_at": "2025-10-19T10:10:20.489089Z"
+  },
+  "TOKEN41/USD": {
+    "symbol": "TOKEN41/USD",
+    "price": 0.610775,
+    "change": -6.36,
+    "volume": 3361513.75,
+    "updated_at": "2025-10-19T10:10:20.489093Z"
+  },
+  "TOKEN42/USD": {
+    "symbol": "TOKEN42/USD",
+    "price": 1.974245,
+    "change": 4.77,
+    "volume": 472470.31,
+    "updated_at": "2025-10-19T10:10:20.489097Z"
+  },
+  "TOKEN43/USD": {
+    "symbol": "TOKEN43/USD",
+    "price": 1.674651,
+    "change": -5.91,
+    "volume": 8571330.43,
+    "updated_at": "2025-10-19T10:10:20.489101Z"
+  },
+  "TOKEN44/USD": {
+    "symbol": "TOKEN44/USD",
+    "price": 1.474486,
+    "change": 5.57,
+    "volume": 8577650.1,
+    "updated_at": "2025-10-19T10:10:20.489105Z"
+  },
+  "TOKEN45/USD": {
+    "symbol": "TOKEN45/USD",
+    "price": 0.73607,
+    "change": -5.53,
+    "volume": 8073243.52,
+    "updated_at": "2025-10-19T10:10:20.489110Z"
+  },
+  "TOKEN46/USD": {
+    "symbol": "TOKEN46/USD",
+    "price": 4.936945,
+    "change": 6.47,
+    "volume": 4240242.42,
+    "updated_at": "2025-10-19T10:10:20.489114Z"
+  },
+  "TOKEN47/USD": {
+    "symbol": "TOKEN47/USD",
+    "price": 2.466867,
+    "change": -0.97,
+    "volume": 7041123.92,
+    "updated_at": "2025-10-19T10:10:20.489118Z"
+  },
+  "TOKEN48/USD": {
+    "symbol": "TOKEN48/USD",
+    "price": 4.317792,
+    "change": 0.19,
+    "volume": 1122123.79,
+    "updated_at": "2025-10-19T10:10:20.489122Z"
+  },
+  "TOKEN49/USD": {
+    "symbol": "TOKEN49/USD",
+    "price": 3.119802,
+    "change": -8.41,
+    "volume": 7358316.92,
+    "updated_at": "2025-10-19T10:10:20.489126Z"
+  },
+  "TOKEN50/USD": {
+    "symbol": "TOKEN50/USD",
+    "price": 2.199256,
+    "change": -1.66,
+    "volume": 1249791.28,
+    "updated_at": "2025-10-19T10:10:20.489130Z"
+  }
+}
