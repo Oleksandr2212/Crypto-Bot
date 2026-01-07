@@ -1,7 +1,25 @@
-venv/
+
+# system
+.DS_Store
+
+# env
 .env
+venv/
+
+# logs
+*.log
+nohup.out
+
+# backups
+*.backup
+
+# docs & images (optional)
+*.png
+*.jpg
+*.pdf
+*.docx
+
+# python
 __pycache__/
 *.pyc
-.idea/
-.vscode/
 
