@@ -1099,6 +1099,7 @@ async def disclaimer_decline(call: CallbackQuery) -> None:
 
 
 @router.message(Command("start"))
+print(f"[DEBUG] /start from {message.from_user.id} text={message.text!r}")
 async def cmd_start(message: Message, state: FSMContext) -> None:
     await state.clear()
     lang = get_lang(message.from_user.id)
@@ -1410,6 +1411,7 @@ async def alert_off(message: Message, state: FSMContext) -> None:
 
 # -------------------- Menu router --------------------
 @router.message(F.text)
+print(f"[DEBUG] text handler from {message.from_user.id} text={message.text!r}")
 @require_accept
 async def router_menu(message: Message, state: FSMContext) -> None:
     lang = get_lang(message.from_user.id)
